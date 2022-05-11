@@ -5,8 +5,7 @@
   "dependencies": {
     "UiPath.Excel.Activities": "[2.11.2-beta.1884195]",
     "UiPath.Mail.Activities": "[1.12.0-beta.1907973]",
-    "UiPath.System.Activities": "[21.10.0-beta.1906895]",
-    "UiPath.UIAutomation.Activities": "[21.10.0-beta.1911775]"
+    "UiPath.System.Activities": "[21.10.0-beta.1906895]"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -15,6 +14,7 @@
   "projectVersion": "1.0.1",
   "runtimeOptions": {
     "autoDispose": false,
+    "netFrameworkLazyLoading": false,
     "isPausable": true,
     "isAttended": false,
     "requiresUserInteraction": true,
