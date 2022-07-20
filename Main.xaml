@@ -62,4 +62,3 @@
     <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="334,91" sap2010:WorkflowViewState.IdRef="LogMessage_2" Message="[&quot;test message 55&quot;]" />
   </Sequence>
 </Activity>
-
