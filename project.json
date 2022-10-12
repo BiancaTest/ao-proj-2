@@ -1,6 +1,6 @@
 {
-  "name": "RobotPolicyEmailRuleNew23",
-  "description": "Blank Processs",
+  "name": "RobotPolicyEmailRuleNew233",
+  "description": "Blank Processs2",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.11.2-beta.1884195]",
